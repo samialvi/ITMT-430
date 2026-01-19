@@ -119,7 +119,7 @@ On MacOS, there is a terminal called [iterm2](https://iterm2.com/ "MacOS shell t
 
 Open the `iterm2` Terminal and from the File > About section take a screenshot of the version output.
 
-![Iterm2](<Screenshot 2026-01-19 at 5.53.52 AM-1.png>)
+![alt text](image-8.png)
 
 ### Install IDE editor with native version control support
 
@@ -136,8 +136,8 @@ We will be installing an text editor or and IDE for all of our coding and config
    
 Take a screenshot from the ABOUT tab or commandline `--version` output of your installed IDE.
 
-![ID](<Screenshot 2026-01-19 at 6.01.13 AM-1.png>)
-![vscode](<Screenshot 2026-01-19 at 5.56.27 AM-1.png>)
+![alt text](image-9.png)
+![alt text](image-11.png)
 
 
 
@@ -209,7 +209,7 @@ Complete the tutorial and take screenshots of the completed sections (may need t
 
 This Git tutorial is a good refresher for those who need it and a great introduction for those new to Version Control and want to learn it. You can leave the last section out, **Sandbox**, it is an open area for you to experiment in and no real way to "complete it."
 
-![Oh my git](<Screenshot 2026-01-19 at 7.58.17 AM-1.png>) Macbook started to wanre=
+![alt text](image-12.png) 
 
 ### Final deliverable
 
